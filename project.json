@@ -8,7 +8,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://github.com/maxlxam/hunter/releases/download/1.2/test.ino.bin",
+          "path": "https://github.com/maxlxam/hunter/releases/download/1.1/test.ino.bin",
           "offset": 0
         }
       ]
