@@ -8,7 +8,7 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "https://github.com/maxlxam/hunter/blob/main/test.ino.bin",
+          "path": "https://github.com/maxlxam/hunter/raw/refs/heads/main/test.ino.bin",
           
           "offset": 0
         }
